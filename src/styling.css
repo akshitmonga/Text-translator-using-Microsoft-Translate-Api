@@ -1,0 +1,73 @@
+.try{
+        color: blue;
+  	    margin-top: 1%;
+        font-size: 275%;
+        font-weight: bold;
+        text-align: center;
+ }
+  .testing{
+    color:blue;
+    font-size: 35px;
+  }
+.container{
+   # background-image: url("six.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+	background-color:  #ffffff;
+   # background-color: #464646;  
+    position: relative;
+}
+
+.Person{
+	 margin-top: 3%;
+}
+
+.Lang_select{
+	margin-top: 15%;
+    text-align: bottom;
+}
+
+.Drop{
+	margin-top:10%;
+    text-align: bottom;
+}
+
+  .box1{
+    margin-top: 12%;
+    text-align: bottom;
+  }
+
+  .box2{
+    margin-top: 12%;
+    text-align: bottom;
+  }
+
+  .abc{
+    margin-top: 70%;
+    color: blue;
+    text-align: left;
+  }
+
+  .xyz{
+    margin-top: 80%;
+    margin-right: 18%;
+    color: blue;
+    text-align: right;
+  }
+  
+  .left_button{
+	margin-top: 10%;
+    margin-left: 32%;
+    color: green;
+  }
+  .right_button{
+	margin-top: 10%;
+    margin-left: 32%;
+    color: green;
+  }
+  
+  .head{
+      color: white;
+  }
